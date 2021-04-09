@@ -5,11 +5,14 @@
   "main": "MixedMessages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./MixedMessages.js"
+    "start": "nodemon ./01Basics/Practice/ArrayPractice.js"
   },
   "author": "George Williams",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
   }
 }
