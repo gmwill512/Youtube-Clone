@@ -3,6 +3,7 @@
 }
 body{
   font-family:"Open Sans Condensed";
+  padding: 20px 60px;
 }
 .App-logo {
   height: 40vmin;
@@ -13,6 +14,10 @@ body{
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+a{
+  text-decoration: none;
+  color:black
 }
 
 .App-header {
